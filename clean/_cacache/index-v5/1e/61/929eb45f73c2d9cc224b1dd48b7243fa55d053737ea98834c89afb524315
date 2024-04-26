@@ -1,0 +1,2 @@
+
+221b0a2b702511c5ecb7d5b4951940303a12db33	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/mime-types/-/mime-types-2.1.35.tgz","integrity":null,"time":1713381057789,"size":"0","metadata":{"time":1713381057789,"url":"http://registry.npmjs.org/mime-types/-/mime-types-2.1.35.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:57 GMT","location":"https://registry.npmjs.org/mime-types/-/mime-types-2.1.35.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

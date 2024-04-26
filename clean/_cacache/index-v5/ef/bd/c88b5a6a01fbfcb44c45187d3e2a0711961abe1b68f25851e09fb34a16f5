@@ -1,0 +1,2 @@
+
+cf123a60c7de9ab154d48173a607fabd652911cf	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@xmldom/xmldom/-/xmldom-0.8.10.tgz","integrity":null,"time":1713381054957,"size":"0","metadata":{"time":1713381054957,"url":"http://registry.npmjs.org/@xmldom/xmldom/-/xmldom-0.8.10.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:54 GMT","location":"https://registry.npmjs.org/@xmldom/xmldom/-/xmldom-0.8.10.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

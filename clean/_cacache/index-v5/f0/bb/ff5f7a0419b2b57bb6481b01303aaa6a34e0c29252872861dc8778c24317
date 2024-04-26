@@ -1,0 +1,2 @@
+
+1357862d0565b9eb31152bd4ef90ae90940fd75c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz","integrity":null,"time":1713381058341,"size":"0","metadata":{"time":1713381058341,"url":"http://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:58 GMT","location":"https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

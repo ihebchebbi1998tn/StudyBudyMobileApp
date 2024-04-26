@@ -1,0 +1,2 @@
+
+680c1139f4840ac23167d43bd4d8bf6dc5df6567	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/expo-cli/-/expo-cli-6.3.10.tgz","integrity":null,"time":1713381048157,"size":"0","metadata":{"time":1713381048157,"url":"http://registry.npmjs.org/expo-cli/-/expo-cli-6.3.10.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:48 GMT","location":"https://registry.npmjs.org/expo-cli/-/expo-cli-6.3.10.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

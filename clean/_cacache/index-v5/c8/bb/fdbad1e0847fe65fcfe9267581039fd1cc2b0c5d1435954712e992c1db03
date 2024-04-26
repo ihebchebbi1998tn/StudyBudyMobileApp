@@ -1,0 +1,2 @@
+
+0e6488791a05a5b6b8e170f70b5e40726c1bb4fc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/array-flatten/-/array-flatten-1.1.1.tgz","integrity":null,"time":1713381065368,"size":"0","metadata":{"time":1713381065368,"url":"http://registry.npmjs.org/array-flatten/-/array-flatten-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:05 GMT","location":"https://registry.npmjs.org/array-flatten/-/array-flatten-1.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

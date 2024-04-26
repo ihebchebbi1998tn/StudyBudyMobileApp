@@ -1,0 +1,2 @@
+
+0c44016f9d1b85f30442e99ab691e87b48a0a3f7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@types/bonjour/-/bonjour-3.5.13.tgz","integrity":null,"time":1713381050037,"size":"0","metadata":{"time":1713381050037,"url":"http://registry.npmjs.org/@types/bonjour/-/bonjour-3.5.13.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:50 GMT","location":"https://registry.npmjs.org/@types/bonjour/-/bonjour-3.5.13.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

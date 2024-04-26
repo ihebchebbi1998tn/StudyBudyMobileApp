@@ -1,0 +1,2 @@
+
+321e0f0e9f16e27e12d515002bd5e5cacd185e1d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/del/-/del-6.1.1.tgz","integrity":null,"time":1713381062700,"size":"0","metadata":{"time":1713381062700,"url":"http://registry.npmjs.org/del/-/del-6.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:02 GMT","location":"https://registry.npmjs.org/del/-/del-6.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

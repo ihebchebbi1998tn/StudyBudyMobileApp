@@ -1,0 +1,2 @@
+
+7701cb2f599345d8f14a739aa7c2f9286b4ce3e2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/form-data/-/form-data-2.5.1.tgz","integrity":null,"time":1713381061004,"size":"0","metadata":{"time":1713381061004,"url":"http://registry.npmjs.org/form-data/-/form-data-2.5.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:00 GMT","location":"https://registry.npmjs.org/form-data/-/form-data-2.5.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

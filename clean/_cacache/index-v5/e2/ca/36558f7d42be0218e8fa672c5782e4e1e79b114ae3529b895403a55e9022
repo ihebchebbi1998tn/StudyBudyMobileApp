@@ -1,0 +1,2 @@
+
+a040cab07ed1233a26af4ff5f5fd068871925bdb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/minipass-flush/-/minipass-flush-1.0.5.tgz","integrity":null,"time":1713381057439,"size":"0","metadata":{"time":1713381057439,"url":"http://registry.npmjs.org/minipass-flush/-/minipass-flush-1.0.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:57 GMT","location":"https://registry.npmjs.org/minipass-flush/-/minipass-flush-1.0.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

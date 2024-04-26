@@ -1,0 +1,2 @@
+
+92cbf3649e76b5a46ca8fc0f4543dbf2ab172b60	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@expo/json-file/-/json-file-8.2.37.tgz","integrity":null,"time":1713381050859,"size":"0","metadata":{"time":1713381050859,"url":"http://registry.npmjs.org/@expo/json-file/-/json-file-8.2.37.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:50 GMT","location":"https://registry.npmjs.org/@expo/json-file/-/json-file-8.2.37.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

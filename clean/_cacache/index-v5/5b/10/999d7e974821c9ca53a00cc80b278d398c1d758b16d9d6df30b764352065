@@ -1,0 +1,2 @@
+
+be535803b0c36e7d39e8a2758377b67bc02bb45c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/es-object-atoms/-/es-object-atoms-1.0.0.tgz","integrity":null,"time":1713381049003,"size":"0","metadata":{"time":1713381049003,"url":"http://registry.npmjs.org/es-object-atoms/-/es-object-atoms-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:48 GMT","location":"https://registry.npmjs.org/es-object-atoms/-/es-object-atoms-1.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+cbeef11c39258a587bfdd6dc864638faf9422b87	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/axios/-/axios-0.21.1.tgz","integrity":null,"time":1713381065296,"size":"0","metadata":{"time":1713381065296,"url":"http://registry.npmjs.org/axios/-/axios-0.21.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:05 GMT","location":"https://registry.npmjs.org/axios/-/axios-0.21.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

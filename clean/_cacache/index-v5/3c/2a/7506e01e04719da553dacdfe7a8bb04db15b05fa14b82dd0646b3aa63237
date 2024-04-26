@@ -1,0 +1,2 @@
+
+a87a82726ba05da83f4aa1f56dd38e2db164ade4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/temp-dir/-/temp-dir-2.0.0.tgz","integrity":null,"time":1713381052783,"size":"0","metadata":{"time":1713381052783,"url":"http://registry.npmjs.org/temp-dir/-/temp-dir-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:52 GMT","location":"https://registry.npmjs.org/temp-dir/-/temp-dir-2.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

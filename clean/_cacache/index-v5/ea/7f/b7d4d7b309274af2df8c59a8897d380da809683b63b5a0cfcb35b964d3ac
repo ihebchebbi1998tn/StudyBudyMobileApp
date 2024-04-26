@@ -1,0 +1,2 @@
+
+af0c7aec0680749ca62a2e56bda98fbe05d272d6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/node-releases/-/node-releases-2.0.14.tgz","integrity":null,"time":1713381057116,"size":"0","metadata":{"time":1713381057116,"url":"http://registry.npmjs.org/node-releases/-/node-releases-2.0.14.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:56 GMT","location":"https://registry.npmjs.org/node-releases/-/node-releases-2.0.14.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

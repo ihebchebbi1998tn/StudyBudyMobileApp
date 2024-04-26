@@ -1,0 +1,2 @@
+
+02f177abf81f95b1e7b681442af7d98d965b4b93	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/abab/-/abab-2.0.6.tgz","integrity":null,"time":1713381066428,"size":"0","metadata":{"time":1713381066428,"url":"http://registry.npmjs.org/abab/-/abab-2.0.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:05 GMT","location":"https://registry.npmjs.org/abab/-/abab-2.0.6.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

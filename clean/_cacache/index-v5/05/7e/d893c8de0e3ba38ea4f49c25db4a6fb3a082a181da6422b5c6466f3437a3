@@ -1,0 +1,2 @@
+
+cb8fb892ea457a965f2c31f9ab357ab7a4aab1fc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz","integrity":null,"time":1713381063303,"size":"0","metadata":{"time":1713381063303,"url":"http://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:03 GMT","location":"https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

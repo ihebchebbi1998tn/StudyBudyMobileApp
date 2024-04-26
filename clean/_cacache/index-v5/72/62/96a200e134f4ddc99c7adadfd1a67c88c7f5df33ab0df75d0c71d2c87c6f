@@ -1,0 +1,2 @@
+
+92b8334be71d770d54bca030ffe11e01de254840	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz","integrity":null,"time":1713381059379,"size":"0","metadata":{"time":1713381059378,"url":"http://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:59 GMT","location":"https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

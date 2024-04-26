@@ -1,0 +1,2 @@
+
+8dd2503be25ab99092ecd89e6e016e3f8cf3bdd2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ansi-escapes/-/ansi-escapes-4.3.2.tgz","integrity":null,"time":1713381065567,"size":"0","metadata":{"time":1713381065567,"url":"http://registry.npmjs.org/ansi-escapes/-/ansi-escapes-4.3.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:05 GMT","location":"https://registry.npmjs.org/ansi-escapes/-/ansi-escapes-4.3.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

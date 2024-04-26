@@ -1,0 +1,2 @@
+
+7dc17e0cfea45d244be8a2da0b3dc76aceb263fd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/svgo/-/svgo-2.8.0.tgz","integrity":null,"time":1713381052797,"size":"0","metadata":{"time":1713381052797,"url":"http://registry.npmjs.org/svgo/-/svgo-2.8.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:52 GMT","location":"https://registry.npmjs.org/svgo/-/svgo-2.8.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

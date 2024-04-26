@@ -1,0 +1,2 @@
+
+60374a5e969c30500bc26d56321251fbbb8fa365	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/plist/-/plist-3.1.0.tgz","integrity":null,"time":1713381054947,"size":"0","metadata":{"time":1713381054946,"url":"http://registry.npmjs.org/plist/-/plist-3.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:54 GMT","location":"https://registry.npmjs.org/plist/-/plist-3.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

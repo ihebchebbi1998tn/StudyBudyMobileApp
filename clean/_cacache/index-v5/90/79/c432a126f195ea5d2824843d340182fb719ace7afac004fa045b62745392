@@ -1,0 +1,2 @@
+
+8e4f395c87d251ff192706faa2777b74620e1a7b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/proxy-addr/-/proxy-addr-2.0.7.tgz","integrity":null,"time":1713381054459,"size":"0","metadata":{"time":1713381054459,"url":"http://registry.npmjs.org/proxy-addr/-/proxy-addr-2.0.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:54 GMT","location":"https://registry.npmjs.org/proxy-addr/-/proxy-addr-2.0.7.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

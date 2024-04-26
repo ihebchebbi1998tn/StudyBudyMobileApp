@@ -1,0 +1,2 @@
+
+e9a1fc2b4862860ddfb7d75e1a38656a2992562c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/http-parser-js/-/http-parser-js-0.5.8.tgz","integrity":null,"time":1713381059836,"size":"0","metadata":{"time":1713381059836,"url":"http://registry.npmjs.org/http-parser-js/-/http-parser-js-0.5.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:59 GMT","location":"https://registry.npmjs.org/http-parser-js/-/http-parser-js-0.5.8.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

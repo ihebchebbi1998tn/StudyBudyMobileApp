@@ -1,0 +1,2 @@
+
+9b799e82712cd481c38a76a19855f99448bde856	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cssnano/-/cssnano-5.1.15.tgz","integrity":null,"time":1713381063070,"size":"0","metadata":{"time":1713381063069,"url":"http://registry.npmjs.org/cssnano/-/cssnano-5.1.15.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:02 GMT","location":"https://registry.npmjs.org/cssnano/-/cssnano-5.1.15.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

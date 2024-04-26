@@ -1,0 +1,2 @@
+
+73e6ef18286dce962a285fcc547bf0ca2f3f90bf	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/toidentifier/-/toidentifier-1.0.1.tgz","integrity":null,"time":1713381052628,"size":"0","metadata":{"time":1713381052628,"url":"http://registry.npmjs.org/toidentifier/-/toidentifier-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:52 GMT","location":"https://registry.npmjs.org/toidentifier/-/toidentifier-1.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

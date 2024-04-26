@@ -1,0 +1,2 @@
+
+3c0f18bc036ec49c117b709361d99535e7c9b795	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/npm-package-arg/-/npm-package-arg-6.1.0.tgz","integrity":null,"time":1713381056717,"size":"0","metadata":{"time":1713381056717,"url":"http://registry.npmjs.org/npm-package-arg/-/npm-package-arg-6.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:56 GMT","location":"https://registry.npmjs.org/npm-package-arg/-/npm-package-arg-6.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

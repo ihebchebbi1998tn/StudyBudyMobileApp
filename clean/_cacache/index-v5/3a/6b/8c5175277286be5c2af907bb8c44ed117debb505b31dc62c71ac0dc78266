@@ -1,0 +1,2 @@
+
+463001d6554c69bb1fcdcee768203494566700a8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/braces/-/braces-3.0.2.tgz","integrity":null,"time":1713381064927,"size":"0","metadata":{"time":1713381064927,"url":"http://registry.npmjs.org/braces/-/braces-3.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:04 GMT","location":"https://registry.npmjs.org/braces/-/braces-3.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

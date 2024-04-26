@@ -1,0 +1,2 @@
+
+af9450af06ff01d797b96bb82a3b295e82accfe4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/minizlib/-/minizlib-2.1.2.tgz","integrity":null,"time":1713381057486,"size":"0","metadata":{"time":1713381057486,"url":"http://registry.npmjs.org/minizlib/-/minizlib-2.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:57 GMT","location":"https://registry.npmjs.org/minizlib/-/minizlib-2.1.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

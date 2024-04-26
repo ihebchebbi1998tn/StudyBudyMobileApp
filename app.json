@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "StudyBuddy",
+    "slug": "StudyBuddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/SplashScreen.gif",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app requires access to your camera for capturing images.",
+        "NSPhotoLibraryUsageDescription": "This app requires access to your photo library for selecting images.",
+        "NSPhotoLibraryAddUsageDescription": "This app requires access to your photo library for saving images."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

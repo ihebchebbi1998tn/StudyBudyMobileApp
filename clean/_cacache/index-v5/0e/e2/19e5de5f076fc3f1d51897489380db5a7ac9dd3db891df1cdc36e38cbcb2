@@ -1,0 +1,2 @@
+
+1842e3db440084737508a4cd362f79981678091d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pump/-/pump-3.0.0.tgz","integrity":null,"time":1713381054496,"size":"0","metadata":{"time":1713381054496,"url":"http://registry.npmjs.org/pump/-/pump-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:54 GMT","location":"https://registry.npmjs.org/pump/-/pump-3.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

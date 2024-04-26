@@ -1,0 +1,2 @@
+
+8284849a93923a4a426b2336edb679c53050bafe	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/terminal-link/-/terminal-link-2.1.1.tgz","integrity":null,"time":1713381052810,"size":"0","metadata":{"time":1713381052810,"url":"http://registry.npmjs.org/terminal-link/-/terminal-link-2.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:52 GMT","location":"https://registry.npmjs.org/terminal-link/-/terminal-link-2.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

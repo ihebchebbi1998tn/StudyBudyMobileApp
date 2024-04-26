@@ -1,0 +1,2 @@
+
+8659f446455822e6fe0bf9e5b8f007fb47193de8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@expo/config/-/config-8.0.5.tgz","integrity":null,"time":1713381050769,"size":"0","metadata":{"time":1713381050769,"url":"http://registry.npmjs.org/@expo/config/-/config-8.0.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:50 GMT","location":"https://registry.npmjs.org/@expo/config/-/config-8.0.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

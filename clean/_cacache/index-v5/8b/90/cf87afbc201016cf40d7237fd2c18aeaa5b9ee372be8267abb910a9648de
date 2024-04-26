@@ -1,0 +1,2 @@
+
+b5a910c89d3c691b1d259ee8fa7f83f1c86f7b4e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz","integrity":null,"time":1713381064888,"size":"0","metadata":{"time":1713381064888,"url":"http://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:04 GMT","location":"https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

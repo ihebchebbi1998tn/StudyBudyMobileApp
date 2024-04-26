@@ -1,0 +1,2 @@
+
+50a455bb72226eacd3722316467e91fc587949dd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/bonjour-service/-/bonjour-service-1.2.1.tgz","integrity":null,"time":1713381065109,"size":"0","metadata":{"time":1713381065109,"url":"http://registry.npmjs.org/bonjour-service/-/bonjour-service-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:04 GMT","location":"https://registry.npmjs.org/bonjour-service/-/bonjour-service-1.2.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+cea767a14b79bcd2f72743e6430d5f0a5ac161bd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/compressible/-/compressible-2.0.18.tgz","integrity":null,"time":1713381063689,"size":"0","metadata":{"time":1713381063689,"url":"http://registry.npmjs.org/compressible/-/compressible-2.0.18.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:03 GMT","location":"https://registry.npmjs.org/compressible/-/compressible-2.0.18.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+a1dc2e1c7ba30d1fd7c87052aecf97a9eef124e3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/commander/-/commander-2.20.0.tgz","integrity":null,"time":1713381061656,"size":"0","metadata":{"time":1713381061656,"url":"http://registry.npmjs.org/commander/-/commander-2.20.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:01 GMT","location":"https://registry.npmjs.org/commander/-/commander-2.20.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

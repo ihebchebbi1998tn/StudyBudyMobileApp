@@ -1,0 +1,2 @@
+
+e9aa5bd17f936f41c035dc5db8494e4628bcf009	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/mkdirp/-/mkdirp-1.0.4.tgz","integrity":null,"time":1713381057509,"size":"0","metadata":{"time":1713381057509,"url":"http://registry.npmjs.org/mkdirp/-/mkdirp-1.0.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:57 GMT","location":"https://registry.npmjs.org/mkdirp/-/mkdirp-1.0.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

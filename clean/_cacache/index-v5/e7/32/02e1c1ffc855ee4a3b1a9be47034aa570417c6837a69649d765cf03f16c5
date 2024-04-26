@@ -1,0 +1,2 @@
+
+a65a3de167bf589272a1b3ccad4a91bb00e4ef89	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz","integrity":null,"time":1713381050469,"size":"0","metadata":{"time":1713381050469,"url":"http://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:50 GMT","location":"https://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

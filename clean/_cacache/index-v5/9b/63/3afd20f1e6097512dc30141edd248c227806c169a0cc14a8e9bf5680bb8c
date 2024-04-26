@@ -1,0 +1,2 @@
+
+b17fc4f6b33170004e3d24a436f7ca1125cc06a5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/callsite/-/callsite-1.0.0.tgz","integrity":null,"time":1713381064790,"size":"0","metadata":{"time":1713381064790,"url":"http://registry.npmjs.org/callsite/-/callsite-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:04 GMT","location":"https://registry.npmjs.org/callsite/-/callsite-1.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

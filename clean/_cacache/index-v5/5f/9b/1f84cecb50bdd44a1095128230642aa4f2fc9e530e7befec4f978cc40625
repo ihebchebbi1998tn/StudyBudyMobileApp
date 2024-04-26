@@ -1,0 +1,2 @@
+
+311f8980f1e8d12db8070cdc3b406271bf136f22	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/http2-wrapper/-/http2-wrapper-1.0.3.tgz","integrity":null,"time":1713381059602,"size":"0","metadata":{"time":1713381059602,"url":"http://registry.npmjs.org/http2-wrapper/-/http2-wrapper-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:10:59 GMT","location":"https://registry.npmjs.org/http2-wrapper/-/http2-wrapper-1.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

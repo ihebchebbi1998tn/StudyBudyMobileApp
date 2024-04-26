@@ -1,0 +1,2 @@
+
+3b1d28315052477d1415770b5015e8feeb98d501	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/eol/-/eol-0.9.1.tgz","integrity":null,"time":1713381062429,"size":"0","metadata":{"time":1713381062429,"url":"http://registry.npmjs.org/eol/-/eol-0.9.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 17 Apr 2024 19:11:02 GMT","location":"https://registry.npmjs.org/eol/-/eol-0.9.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
